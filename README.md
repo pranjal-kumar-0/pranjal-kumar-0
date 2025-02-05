@@ -14,7 +14,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjal-kumar-0&theme=github-compact)
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pranjal-kumar-0/pranjal-kumar-0/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🌐 Connect with me:
