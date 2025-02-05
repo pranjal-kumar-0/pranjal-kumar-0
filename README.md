@@ -5,4 +5,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pranjal-kumar-0&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/pranjal-kumar-0?style=social)
 
-<img src="https://media1.tenor.com/m/pzvqar0jarkAAAAC/night-starrynight.gif" width="100%" />
+<img src="https://github.com/arnabsikdart/arnabsikdart" width="100%" />
