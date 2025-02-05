@@ -6,4 +6,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pranjal-kumar-0&color=green)
 ![GitHub followers](https://img.shields.io/github/followers/pranjal-kumar-0?style=social)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile!;I+love+coding!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23#1fff3d&lines=Welcome+to+my+profile!;I+love+coding!)](https://git.io/typing-svg)
