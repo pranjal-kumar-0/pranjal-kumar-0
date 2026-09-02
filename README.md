@@ -1,36 +1,18 @@
-<img align="center" height="250" width="1500" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif" />
+# Pranjal Kumar
 
-<h2 align="center">Pranjal Kumar</h2> 
-<p align="center">🚀 Btech CSE student at VIT-AP | 🎯 Currently learning NodeJS </p>
-<div align="center">
-  <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&width=435&lines=Compiling;Debugging;Fixing+Bugs;Creating+more+bugs" alt="Typing SVG" /></a>
+Full-stack and mobile developer working across web and apps. Into cybersecurity on the side :)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranjal-kumar-0&color=green)
-![GitHub followers](https://img.shields.io/github/followers/pranjal-kumar-0?style=social)
-</div>
+## Tech Stack
 
-![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjal-kumar-0&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-kumar-0&layout=compact&theme=radical)
+- **Web:** Express, Next.js, TypeScript
+- **Mobile:** React Native, Flutter
+- **Backend / Database:** Postgres, MongoDB, Supabase, Firebase, MySQL
+- **Cloud:** AWS
+- **Other:** Python, Arduino, Raspberry Pi, Cybersecurity Tools
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjal-kumar-0&theme=github-compact)
-<div align="center">
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img width="50" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-</div>      
- <img src="https://github.com/pranjal-kumar-0/pranjal-kumar-0/blob/output/github-contribution-grid-snake.svg" alt="light">
-<div align="center">
-  
-### 🌐 Connect with me:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranjal-kumar-780942308/)
-  [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/Pranjal49498415)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranjal.kumar_/)
-</div>
+<img width="45" height="auto" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img width="45" height="auto" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img width="45" height="auto" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img width="45" height="auto" title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img width="45" height="auto" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> <img width="45" height="auto" title="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img width="45" height="auto" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> <img width="45" height="auto" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" /> <img width="45" height="auto" title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" /> <img width="45" height="auto" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> <img width="45" height="auto" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img width="45" height="auto" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="45" height="auto" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /> <img width="45" height="auto" title="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-kumar-780942308/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/pranjalkumar)
